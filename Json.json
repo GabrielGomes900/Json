@@ -13,4 +13,18 @@
 "Vídeo": "https://filmeshorizonhdencripta.xyz/stream.php?video=YxIIzJ7M96dF-XkSCY3ye_vDhHeIQIZoLjQBz1VaXMRfyF4dCGLj_-QQ6uu8RMUl3adSbGy_xHBokBSv-qo0dDznr6ZAs2Ns2edZsuNi47rIk3r4TEvQUlphLNNESE9c",
                 "ListaDePersonagens":"https://api.myjson.com/bins/f0u35",
                 "ListaDeTemporadas":"https://raw.githubusercontent.com/GabrielGomes900/Json/master/Json.json"
+},  {
+            "Título": "Spark - Uma Aventura Espacial",
+            "Descrição": "Spark é um macaco adolescente que vive junto com seus amigos Chunk e Vix no planeta Bana, um local abandonado há 13 anos. No passado, o maligno e poderoso senhor General Zhong tomou controle do planeta Bana, expulsando a família de Spark e fazendo ele viver escondido. Agora, ele e seus amigos são os únicos que podem impedir o novo plano de Zhong de destruir todo o universo.",
+            "Genero":" Animação, Aventura, Comédia, Família, Ficção científica",
+            "Diretor":"Aaron Woodley",
+            "Personagens":"Aaron Woodley,Alan C. Peterson,Athena Karkanis,Hilary Swank,Ivan SherryJace Norman,Jason Deline,Jessica Biel,Patrick Stewart,Susan Sarandon",
+            "DataDeLançamento":"2017",
+            "Hora":"1h 31m",
+            "Avaliação": "8.16",
+            "Episódio": 500,
+            "Imagem": "https://image.tmdb.org/t/p/w154/cqnbrAisymjREliVZKUTg5UgFBu.jpg",
+"Vídeo": "https://filmeshorizonhdencripta.xyz/stream.php?video=YxIIzJ7M96dF-XkSCY3ye_vDhHeIQIZoLjQBz1VaXMRfyF4dCGLj_-QQ6uu8RMUl3adSbGy_xHBokBSv-qo0dDznr6ZAs2Ns2edZsuNi47rIk3r4TEvQUlphLNNESE9c",
+                "ListaDePersonagens":"https://api.myjson.com/bins/f0u35",
+                "ListaDeTemporadas":"https://raw.githubusercontent.com/GabrielGomes900/Json/master/Json.json"
 }]
